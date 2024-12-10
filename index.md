@@ -1,6 +1,6 @@
 Adrian Barajas' Portfolio
 
-I'm a major in Electrical Engineering, however, I like Computer Science. 
+I'm an Electrical Engineeringmajor, however, I like Computer Science. 
 
 Adrian Barajas
 California State University – Fullerton
